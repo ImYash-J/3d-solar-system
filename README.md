@@ -20,6 +20,7 @@ A modern, interactive 3D Solar System built using **Three.js** and **Vite**. Fea
 - ✅ **Background stars** for immersive space feel
 - ✅ Clean, modern UI with responsive layout
 
+
 ## 📁 Folder Structure
 
 solar-system/
@@ -37,6 +38,11 @@ solar-system/
 ├── style.css # Styling (modern and responsive)
 
 └── utilis.js # Planet metadata (distance, speed, textures)
+
+
+### 🔗 Live Demo
+
+🌐(https://imyash-j.github.io/3d-solar-system/)
 
 
 ## 🛠️ Tech Stack
@@ -73,6 +79,7 @@ npm install
 npm run dev
 
 
-🔗 Live Demo
-🌐(https://imyash-j.github.io/3d-solar-system/)
 
+
+🧑‍💻 Author
+Yash Javiya – @ImYash-J
