@@ -42,7 +42,7 @@ solar-system/
 
 ### 🔗 Live Demo
 
-🌐(https://imyash-j.github.io/3d-solar-system/)
+🌐(https://imyash-j.github.io/3d-solar-system/) -- required to install all dependencies
 
 
 ## 🛠️ Tech Stack
