@@ -71,3 +71,8 @@ npm install
 
 # Run the development server
 npm run dev
+
+
+🔗 Live Demo
+🌐(https://imyash-j.github.io/3d-solar-system/)
+
