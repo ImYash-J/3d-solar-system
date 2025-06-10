@@ -79,7 +79,7 @@ npm install
 npm run dev
 
 
-
+```
 
 🧑‍💻 Author
 Yash Javiya – @ImYash-J
